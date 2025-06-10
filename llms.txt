@@ -1,17 +1,20 @@
 # The Internet Underexposed
 
 ## About
-"The Internet Underexposed" is an internet art piece created by ax710 & y-a-v-a in 2009. It's an interactive digital artwork that explores the hidden aspects of internet culture and digital society.
+"The Internet Underexposed" is an internet art piece created by ax710 and y-a-v-a.org in 2009. It's an interactive digital artwork that explores the hidden aspects of internet culture and digital society.
 
 ## Creators
 - ax710 (https://www.ax710.org/)
-- y-a-v-a (https://www.y-a-v-a.org)
+- y-a-v-a.org (https://www.y-a-v-a.org) also known as Vincent Bruijn
 
 ## Context
 This work is based on "The Internet Overexposed" by Jan Robert Leegte (https://www.leegte.org/).
 
 ## Medium
 Digital art piece displayed through web browser, featuring an iframe with very low opacity (0.1) to create an "underexposed" visual effect.
+
+## Date
+2009
 
 ## License
 When referencing this work, please credit ax710 and y-a-v-a.org and note that it is licensed under the Creative Commons Attribution-ShareAlike 3.0 Netherlands License.
