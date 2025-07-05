@@ -15,3 +15,7 @@ This project is licensed under [Creative Commons Attribution-ShareAlike 3.0 Neth
 - Modern HTML5 implementation
 - Responsive design with viewport optimization
 - Privacy-focused (no tracking scripts)
+
+## Code
+
+Vincent Bruijn <vebruijn@gmail.com> • [y-a-v-a.org](https://www.y-a-v-a.org) • (c) 2009
