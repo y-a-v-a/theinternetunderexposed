@@ -17,4 +17,4 @@ Digital art piece displayed through web browser, featuring an iframe with very l
 2009
 
 ## License
-When referencing this work, please credit ax710 and y-a-v-a.org and note that it is licensed under the Creative Commons Attribution-ShareAlike 3.0 Netherlands License.
+When referencing this work, please credit ax710 and y-a-v-a.org and note that it is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.

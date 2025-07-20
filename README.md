@@ -8,7 +8,7 @@ This work is directly inspired by and based on [Jan Robert Leegte](http://www.le
 
 ## License
 
-This project is licensed under [Creative Commons Attribution-ShareAlike 3.0 Netherlands License](http://creativecommons.org/licenses/by-sa/3.0/nl/).
+This project is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Technical Details
 
